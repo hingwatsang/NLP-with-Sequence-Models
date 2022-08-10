@@ -25,3 +25,16 @@ My model would have predicted a positive sentiment for that review. However, tha
 <li>Compute the accuracy of your model</li>
 <li>Predict using your own input</li>
 
+
+## Assignment 2: Deep N-grams
+The second assignment of course 3. In this assignment I explored Recurrent Neural Networks RNN.
+
+I used the fundamentals of google's trax package to implement any kind of deeplearning model.
+By completing this assignment, I learnt how to implement models from scratch:
+
+<li>How to convert a line of text into a tensor</li>
+<li>Create an iterator to feed data to the model</li>
+<li>Define a GRU model using trax</li>
+<li>Train the model using trax</li>
+<li>Compute the accuracy of your model using the perplexity</li>
+<li>Predict using your own model</li>
