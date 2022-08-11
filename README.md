@@ -38,3 +38,13 @@ By completing this assignment, I learnt how to implement models from scratch:
 <li>Train the model using trax</li>
 <li>Compute the accuracy of your model using the perplexity</li>
 <li>Predict using your own model</li>
+
+
+## Assignment 3 - Named Entity Recognition (NER)
+The third programming assignment of Course 3. In this assignment, I learnt to build more complicated models with Trax. By completing this assignment, I am able to:
+
+<li>Design the architecture of a neural network, train it, and test it</li>
+<li>Process features and represents them</li>
+<li>Understand word padding</li>
+<li>Implement LSTMs</li>
+<li>Test with your own sentence</li>
