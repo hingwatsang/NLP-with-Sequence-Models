@@ -48,3 +48,22 @@ The third programming assignment of Course 3. In this assignment, I learnt to bu
 <li>Understand word padding</li>
 <li>Implement LSTMs</li>
 <li>Test with your own sentence</li>
+
+T
+## Assignment 4: Question duplicates
+The fourth assignment of course 3. In this assignment I explored Siamese networks applied to natural language processing. I further explored the fundamentals of Trax and I am able to implement a more complicated structure using it. By completing this assignment, I learnt how to implement models with different architectures.
+
+In this assignment, concretely I:
+
+<li>Learn about Siamese networks</li>
+<li>Understand how the triplet loss works</li>
+<li>Understand how to evaluate accuracy</li>
+<li>Use cosine similarity between the model's outputted vectors</li>
+<li>Use the data generator to get batches of questions</li>
+<li>Predict using your own model</li>
+
+
+
+
+
+
