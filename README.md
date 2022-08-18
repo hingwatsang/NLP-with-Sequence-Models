@@ -2,10 +2,10 @@
 
 In Course 3 of the Natural Language Processing Specialization, I :
 
-a) Train a neural network with GLoVe word embeddings to perform sentiment analysis of tweets,
-b) Generate synthetic Shakespeare text using a Gated Recurrent Unit (GRU) language model,
-c) Train a recurrent neural network to perform named entity recognition (NER) using LSTMs with linear layers, and 
-d) Use so-called ‘Siamese’ LSTM models to compare questions in a corpus and identify those that are worded differently but have the same meaning.
+a) Train a neural network with GLoVe word embeddings to perform sentiment analysis of tweets,<br>
+b) Generate synthetic Shakespeare text using a Gated Recurrent Unit (GRU) language model,<br>
+c) Train a recurrent neural network to perform named entity recognition (NER) using LSTMs with linear layers, and <br>
+d) Use so-called ‘Siamese’ LSTM models to compare questions in a corpus and identify those that are worded differently but have the same meaning.<br>
 
 
 ## Assignment 1: Sentiment with Deep Neural Networks
